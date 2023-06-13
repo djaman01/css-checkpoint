@@ -3,55 +3,59 @@
 
       /* visited link */
       .visited:visited {
-          color: rgb(141, 206, 168);
+        color: rgb(141, 206, 168);
       }
 
       /* mouse over element */
       div:hover {
-          color: tomato;
-      } 
+        color: tomato;
+      }
 
       /* selected link */
-      .active:active{
-          color: #e81313
+      .active:active {
+        color: #e81313
       }
 
       .box-1 {
         border: none;
       }
-      
+
       .box-2 {
         border: 5px hidden red;
       }
-      
+
       .box-3 {
         border: 5px solid orange;
+        line-height: 100px;
       }
-      
+
       .box-4 {
         border: 5px dashed orange;
-      }
+        letter-spacing: 4px;
       
+      }
+
       .box-5 {
         border: 5px dotted orange;
+        word-spacing: 4px;
       }
-      
+
       .box-6 {
         border: 5px double orange;
       }
-      
+
       .box-7 {
         border: 5px groove orange;
       }
-      
+
       .box-8 {
         border: 5px ridge orange;
       }
-      
+
       .box-9 {
         border: 5px inset orange;
       }
-      
+
       .box-10 {
         border: 5px outset orange;
       }
