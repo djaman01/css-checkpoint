@@ -1,9 +1,16 @@
       .navbar {
         display: inline;
+        border: solid 2px grey;
       }
 
       body {
         font-family: Roboto;
+      }
+
+      h2 {
+        border-top: solid;
+        text-decoration: underline;
+        color: rgb(211, 8, 8);
       }
 
 
@@ -23,7 +30,7 @@
       }
 
       .box-1 {
-        border: none;
+        border-top: solid;
       }
 
       .box-2 {
@@ -33,7 +40,7 @@
       .box-3 {
         border: 5px solid orange;
         line-height: 100px;
-        visibility: hidden;
+    
       }
 
       .box-4 {
