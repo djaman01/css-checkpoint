@@ -1,4 +1,8 @@
-      /* unvisited link */
+      .navbar {
+        display: inline;
+      }
+
+      
 
 
       /* visited link */
@@ -27,6 +31,7 @@
       .box-3 {
         border: 5px solid orange;
         line-height: 100px;
+        visibility: hidden;
       }
 
       .box-4 {
