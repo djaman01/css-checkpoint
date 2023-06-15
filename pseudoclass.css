@@ -73,3 +73,7 @@
       .box-10 {
         border: 5px outset orange;
       }
+
+      .testespace p {
+        display: inline-block;
+      }
