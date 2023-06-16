@@ -1,3 +1,7 @@
+      body {
+        background-image: url(Images/fond-gris.jpg)
+      }
+      
       .navbar {
         display: inline;
         border: solid 2px grey;
@@ -29,6 +33,7 @@
         color: #e81313
       }
 
+      /* Test des borders */
       .box-1 {
         border-top: solid;
       }
@@ -40,13 +45,13 @@
       .box-3 {
         border: 5px solid orange;
         line-height: 100px;
-    
+
       }
 
       .box-4 {
         border: 5px dashed orange;
         letter-spacing: 4px;
-      
+
       }
 
       .box-5 {
@@ -77,3 +82,36 @@
       .testespace p {
         display: inline-block;
       }
+
+      /* Test des combinators */
+
+
+      /* multiple selectors */
+
+      .head, .text1 {
+        color: red;
+      }
+
+      /* Descendant combinator */
+
+      article p {
+        color: blue;
+      }
+
+        /* children combinator */
+
+        article > p {
+          color: yellow;
+        }
+
+        /* Only adjacent siblings of <div> */
+
+        div + .text44 {
+          color: brown;
+        }
+        
+        .text4 {
+          color: black;
+        }
+
+    
