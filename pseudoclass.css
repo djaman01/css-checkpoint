@@ -45,7 +45,10 @@
       .box-3 {
         border: 5px solid orange;
         line-height: 100px;
+      }
 
+      .box-3 > .jaafar {
+        color: Blue;
       }
 
       .box-4 {
