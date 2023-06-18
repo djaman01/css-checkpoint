@@ -1,3 +1,28 @@
 body {
-  background-color: brown;
+  background-color: rgb(120, 239, 120);
+  font-weight: bold;
+}
+
+h1, h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.salade1 {
+  background-color: red;
+}
+.salade1 p {
+  display: inline-block;
+}
+
+.para1 {
+  text-align: left;
+  width: 50%;
+  background-color: orange;
+}
+
+.para2 {
+  text-align: right;
+  width: 50%;
+  background-color: pink;
 }
