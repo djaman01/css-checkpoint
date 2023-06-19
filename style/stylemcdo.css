@@ -2,6 +2,7 @@ body {
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
   padding: 20px;
+  background-color: rgb(149, 241, 149);
   }
 
  /* Title styling  */
@@ -9,7 +10,7 @@ body {
  h1 {
   margin: 0;
  }
- 
+
 h1, h2 {
   text-align: center;
   text-decoration: underline;
@@ -28,8 +29,7 @@ hr {
 }
 /* Menu styling */
 .bigmenu {
-  background-image: url('Mcdo.jpeg');
-
+  background-color: burlywood;
   max-width: 1480px;
   padding: 20px;
 }
@@ -78,7 +78,7 @@ hr {
 footer {
   text-align: center;
   font-size: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 0;
 }
 
 a:hover {
