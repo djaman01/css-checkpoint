@@ -26,3 +26,23 @@ h1, h2 {
   width: 50%;
   background-color: pink;
 }
+
+.burgers {
+  background-color: red;
+}
+
+.burgers p {
+  display: inline-block;
+}
+
+.para49 {
+  text-align: left;
+  width: 50%;
+  background-color: orange;
+}
+
+.para492 {
+  text-align: right;
+  width: 49.7%;
+  background-color: pink;
+}
