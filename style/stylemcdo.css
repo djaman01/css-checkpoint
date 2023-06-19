@@ -29,19 +29,32 @@ hr {
 }
 /* Menu styling */
 .bigmenu {
+  display: block;
   background-color: burlywood;
   max-width: 1480px;
   padding: 20px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 .menu1 {
-  background-color: burlywood;
+  background-color: rgb(124, 247, 124);
+}
+
+/* image styling */
+
+img {
+  display: block;
+  width: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -15px;
 }
 
 /* div styling */
-.salade1 {
-  background-color: red;
-}
+
 .salade1 p {
   display: inline-block;
   margin: 8px 0 8px 0;
@@ -50,23 +63,18 @@ hr {
 
 .para1 {
   text-align: left;
-  width: 75%;
-  background-color: orange;
+  width: 500px;
 }
 
 .para2 {
   text-align: right;
-  width: 24.7%;
-  background-color: pink;
+  width: 496px;
 }
 
 .menu2 {
   background-color: brown;
 }
 
-.burgers {
-  background-color: red;
-}
 
 .burgers p {
   display: inline-block;
@@ -84,3 +92,9 @@ footer {
 a:hover {
   color: red;
 }
+
+.test {
+  width: 500px;
+}
+
+
