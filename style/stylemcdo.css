@@ -30,7 +30,7 @@ hr {
 /* Menu styling */
 .bigmenu {
   display: block;
-  background-color: burlywood;
+  background-image: url('Images/Mcdo.jpeg');
   max-width: 1480px;
   padding: 20px;
   width: 1000px;
