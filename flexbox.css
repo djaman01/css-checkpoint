@@ -1,23 +1,36 @@
 
-.boite1 {
+.bigboite, .boite1, .boite2, .boite3 {
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boite1 {
+  
   background-color: blue;
   border: 5px solid blue;
   margin-bottom: 250px;
-            
+  width: 200px;
+  height: 200px;
 }
 
 .boite2 {
   background-color: red;
   border: 5px solid red;
+  width: 80%;
+  height: 80%;
 }
 
 .boite3 {
   background-color: yellow;
   border: 5px solid yellow;
+  width: 60%;
+  height: 60%;
 }
 
 .boite4 {
-  background-color: yellow;
-  border: 5px solid yellow;
+  background-color: black;
+  border: 5px solid black;
+  width: 30%;
+  height: 30%;
 }
