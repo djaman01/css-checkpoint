@@ -22,6 +22,7 @@
 }
 
 .boite3 {
+  position: relative;
   background-color: yellow;
   border: 5px solid yellow;
   width: 60%;
@@ -29,6 +30,8 @@
 }
 
 .boite4 {
+  position: absolute;
+  top: 50px;
   background-color: black;
   border: 5px solid black;
   width: 30%;
