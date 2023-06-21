@@ -1,0 +1,37 @@
+
+
+div {
+  border: 1px dashed black;
+}
+
+body {
+  margin: 20px 270px 5000px 270px;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+}
+
+
+.logo {
+  width: 270px;
+}
+
+a {
+  color: #00b39b;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 250px;
+  justify-content: space-around;
+  margin-left: 460px;
+  
+}
+
