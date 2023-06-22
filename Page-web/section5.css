@@ -1,0 +1,33 @@
+.section5 {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  background-color: #67f7e8;
+}
+
+.logo-s5 {
+  width: 300px;
+  margin-bottom: 200px;
+}
+
+.s5-grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+.image-s5 {
+  display: flex;
+  justify-content: center;
+}
+
+.s5-carte1 {
+  background-color: white;
+  border-radius: 10px;
+  width:200px;
+  height: 280px;
+}
+
+.titre-s5, .para-s5 {
+  text-align: center;
+}

@@ -1,0 +1,34 @@
+.section4 {
+display: grid;
+grid-template-columns: 1fr 2fr;
+}
+
+.titre-s4 {
+  width: 300px;
+  font-family: 'Work Sans', Arial, sans-serif;
+  font-size: 15px;
+}
+
+.all-links4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  border: 2px solid red;
+  margin-left: 10px;
+  column-gap: 3px;
+}
+
+.img-links4 {
+  width: 130px;
+}
+
+.mini-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 2px solid red;
+  column-gap: 3px;
+}
+
+.img-link-spe {
+  width: 100px;
+}
+
