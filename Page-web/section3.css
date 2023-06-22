@@ -1,0 +1,45 @@
+/* styling 3 cartes de la 3ème section */
+
+.vertical3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 18px;
+  border: 5px solid purple;
+  height: 310px;
+  margin-top: 80px;
+}
+
+.carte1 {
+  padding: 20px 20px 20px 20px;
+  background-color: #05d9bd ;
+  color: white;
+  border-radius: 10px;
+}
+
+.icone-carte {
+width: 25px;
+}
+
+.titre1 {
+  font-size: 13px;
+  font-family: Work Sans,Arial,sans-serif;
+}
+
+.para1 {
+  font-size: 12px;
+  margin-bottom: 60px;
+}
+
+.carte2 {
+  padding: 20px 20px 20px 20px;
+  background-color: #3d83df ;
+  color: white;
+  border-radius: 10px;
+}
+
+.carte3 {
+  padding: 20px 20px 20px 20px;
+  background-color: #1b2734 ;
+  color: white;
+  border-radius: 10px;
+}
