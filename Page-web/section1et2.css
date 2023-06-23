@@ -3,7 +3,7 @@
 .vertical1 {
 
   border: 5px solid yellow;
-  margin-top: 80px;
+  margin: 50px 270px 0 270px;
 }
 
 .icone-haut {
@@ -30,7 +30,7 @@
   grid-template-columns: 1fr 1fr;
   column-gap: 5px;
   border: 5px solid red;
-  margin-top: 10px;
+  margin: 10px 270px 10px 270px;
 }
 
 .horizontal1, .horizontal2 {

@@ -2,17 +2,11 @@ div {
   border: 1px dashed black;
 }
 
-body {
-  margin: 20px 270px 5000px 270px;
-}
 
 #header {
   display: flex;
-  justify-content: space-between;
-  position: fixed;
-  top: 0;
+  justify-content: center;
   background-color: white;
-  margin: 20px 270px 5000px 270px;
 }
 
 
