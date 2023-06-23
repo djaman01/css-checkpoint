@@ -40,3 +40,24 @@
   border: none;
   padding: 0 12px 0 12px;
 }
+
+/* text end section 7 */
+
+.end-section7 {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Work Sans", Arial, sans-serif;
+}
+
+.text-end {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.button-end {
+  display: flex;
+  justify-content: center;
+}
+
