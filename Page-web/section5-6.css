@@ -5,6 +5,12 @@
   background-color: #67f7e8;
 }
 
+
+.box-logos5 {
+display: flex;
+margin-left: 120px;
+}
+
 .logo-s5 {
   width: 300px;
 }
