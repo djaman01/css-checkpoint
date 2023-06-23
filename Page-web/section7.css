@@ -14,7 +14,9 @@
 .carte-s7 {
   border: solid 1px rgb(247, 233, 233);
   border-radius: 10px;;
-  width: 300px;
+  margin-right: 0;
+  margin-left: 0;
+  width: 100%;
 }
 
 .img-s7 {
