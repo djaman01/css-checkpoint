@@ -7,6 +7,9 @@ div {
   display: flex;
   justify-content: center;
   background-color: white;
+  position: sticky;
+  top: 0;
+  
 }
 
 
@@ -15,7 +18,7 @@ div {
 }
 
 a {
-  color:  #ababab;
+  color: #ababab;
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
@@ -35,6 +38,5 @@ a:hover {
   width: 250px;
   justify-content: space-around;
   margin-left: 450px;
-  
-}
 
+}
