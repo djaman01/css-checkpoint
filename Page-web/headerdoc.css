@@ -24,7 +24,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+.navlink:hover {
   color: #00b39b;
 }
 
