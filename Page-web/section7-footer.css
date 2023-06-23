@@ -46,13 +46,14 @@
 
 .end-section7 {
   margin-top: 50px;
-  text-align: center;
-  font-size: 30px;
-  font-family: "Work Sans", Arial, sans-serif;
-}
+  text-align: center;}
 
 .text-end7 {
   margin-bottom: 13px;
+  color: #333;
+  font-size: 30px;
+  font-family: "Work Sans", Arial, sans-serif;
+  font-weight: 300;
 }
 
 .button-end7 {
@@ -61,9 +62,10 @@
   color: white;
   font-weight: bold;
   font-size: 12px;
-  border-radius: 5px;
+  border-radius: 4px;
   border: none;
   padding: 0 18px 0 18px;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* styling footer */
@@ -73,6 +75,16 @@ hr {
   margin-bottom: 30px;
 }
 
+.link-footer {
+  text-decoration: none;
+  color: #3d83df;
+  font-size: 12px;
+  line-height: 25px;
+}
+
+.link-footer:hover{
+  text-decoration: underline;
+}
 .text-footer {
   font-size: 12px;
   color: #ababab;
