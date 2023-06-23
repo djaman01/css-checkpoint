@@ -1,3 +1,4 @@
+/* styling section 5 */
 .section5 {
   display: grid;
   grid-template-columns: 400px 1fr;
@@ -48,10 +49,13 @@
   height: 280px;
 }
 
-
-
-
-
 .titre-s5, .para-s5 {
   text-align: center;
+}
+
+/* Styling Section 6 */
+
+.section6 {
+  text-align: center;
+  padding: 45px 250px 45px 250px;
 }
