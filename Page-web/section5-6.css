@@ -9,10 +9,15 @@
 .box-logos5 {
 display: flex;
 margin-left: 120px;
+margin-top: 250px;
 }
 
 .logo-s5 {
   width: 300px;
+}
+
+.section-gauche-s5 {
+  
 }
 
 .s5-grid2 {
