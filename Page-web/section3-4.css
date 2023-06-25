@@ -93,7 +93,7 @@ option {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   border: 2px solid red;
   margin-left: 10px;
-  column-gap: 3px;
+  column-gap: 17px;
   row-gap: 19px;
 }
 
