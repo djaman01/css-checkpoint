@@ -9,12 +9,15 @@
   margin: 80px 270px 50px 270px;
 }
 
-
 .carte1 {
   padding: 20px;
   background-color: #05d9bd;
   color: white;
   border-radius: 10px;
+}
+
+.carte1:hover, .carte2:hover, .carte3:hover {
+  opacity: 0.95;
 }
 
 .icone-carte {
