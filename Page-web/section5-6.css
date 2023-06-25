@@ -41,11 +41,14 @@ justify-content: left;
 margin-left: 100px;
 }
 
+
+/* styling section droite */
+
 .section-droite-s5 {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  column-gap: 20px;
   margin-right: 270px;
+  gap: 17px 17px;
 
 }
 
@@ -54,34 +57,35 @@ margin-left: 100px;
   justify-content: center;
 }
 
-/* styling section droite */
 .s5-carte1 {
   background-color: white;
   border-radius: 10px;
-  width: 100%;
-  height: 280px;
-  margin-top: 50px;
+  margin-top: 35px;
+  height: 240px;
+  
 }
 
 .s5-carte2 {
   background-color: white;
   border-radius: 10px;
-  width: 100%;
-  height: 280px;
+  margin-top: 8px;
+  height: 240px;
+
 }
 
 .s5-carte3 {
   background-color: white;
   border-radius: 10px;
-  width:200px;
-  height: 280px;
+  height: 240px;
+  margin-top: -160px;
 }
 
 .s5-carte4 {
   background-color: white;
   border-radius: 10px;
-  width:200px;
-  height: 280px;
+  height: 240px;
+  margin-top: -190px;
+
 }
 
 .titre-s5, .para-s5 {
