@@ -11,10 +11,14 @@
 .item-s7 {
   border: solid 1px rgb(247, 233, 233);
   border-radius: 10px;
-  ;
   margin-right: 0;
   margin-left: 0;
   width: 100%;
+}
+
+.item-s7:hover {
+  cursor: pointer;
+  box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.1);
 }
 
 .img-s7 {
