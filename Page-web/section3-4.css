@@ -4,7 +4,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 18px;
-  border: 5px solid purple;
   height: 370px;
   margin: 80px 270px 50px 270px;
 }
@@ -94,7 +93,6 @@ option {
 .all-links4 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  border: 2px solid red;
   margin-left: 10px;
   column-gap: 17px;
   row-gap: 19px;
@@ -107,7 +105,6 @@ option {
 .mini-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  border: 2px solid red;
   column-gap: 3px;
 }
 
