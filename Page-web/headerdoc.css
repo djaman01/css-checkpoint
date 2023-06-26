@@ -4,6 +4,7 @@ div {
 
 
 #header {
+
   display: flex;
   justify-content: center;
   background-color: white;
@@ -34,12 +35,17 @@ a {
   position: relative;
 }
 
+
 .dropdown {
   position: absolute;
   cursor: pointer;
   border: 2px solid black;
   background-color: white;
   display: none;
+}
+
+.div-dropdown:hover .dropdown {
+display: block;
 }
 
 .dropdown:hover {
